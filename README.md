@@ -1,4 +1,4 @@
 # Teste!
  Primeiro repositório teste
 
-Repositório criado após assistir uma aula sobre github!
+Repositório criado após estudar git e github!
